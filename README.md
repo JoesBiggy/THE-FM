@@ -1,5 +1,5 @@
-<picture><img alt="IMAGE" src="https://github.com/JustPrints/DIY-FM/blob/main/IMAGES/TH.jpg" width="49%"></picture>
-<picture><img alt="IMAGE" src="https://github.com/JustPrints/DIY-FM/blob/main/IMAGES/fminangle.jpg" width="49%"></picture>
+<picture><img alt="IMAGE" src="https://github.com/JoesBiggy/THE-FM/blob/main/IMAGES/TH.jpg" width="49%"></picture>
+<picture><img alt="IMAGE" src="https://github.com/JoesBiggy/THE-FM/blob/main/IMAGES/fminangle.jpg" width="49%"></picture>
 
 # DIY FuckMachine
 

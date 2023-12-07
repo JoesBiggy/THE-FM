@@ -4,7 +4,7 @@
 
 ### v2
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Motor_Holder_Front%20v2.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Motor_Holder_Front%20v2.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Motor_Holder_Front%20v2.3mf)
 
@@ -12,7 +12,7 @@
 
 ### v1
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Motor_Holder_Back%20v1.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Motor_Holder_Back%20v1.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Motor_Holder_Back%20v1.3mf)
 
@@ -20,7 +20,7 @@
 
 ### v1
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Motor_Levermount%20v1.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Motor_Levermount%20v1.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Motor_Levermount%20v1.3mf)
 
@@ -28,13 +28,13 @@
 
 ### v2
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Motor_Levermount%20v2.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Motor_Levermount%20v2.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Motor_Levermount%20v2.3mf)
 
 ### v1 (DONT USE, NUT SCREW DOES NOT FIT!)
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Motor_Levermount%20v1.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Motor_Levermount%20v1.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Motor_Levermount%20v1.3mf)
 
@@ -42,7 +42,7 @@
 
 ### v1
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/RailMount%20v1.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/RailMount%20v1.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/RailMount%20v1.3mf)
 
@@ -50,7 +50,7 @@
 
 ### v2
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Railmount_Tunnel%20v2.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Railmount_Tunnel%20v2.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Railmount_Tunnel%20v2.3mf)
 
@@ -58,7 +58,7 @@
 
 ### v3
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/FlashlightMount%20v3.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/FlashlightMount%20v3.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/FlashlightMount%20v3.3mf)
 
@@ -66,7 +66,7 @@
 
 ### v3
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/FlashlightGoMount%20v3.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/FlashlightGoMount%20v3.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/FlashlightGoMount%20v3.3mf)
 
@@ -74,7 +74,7 @@
 
 ### v3
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/DHolder%20v3.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/DHolder%20v3.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/DHolder%20v3.3mf)
 
@@ -82,7 +82,7 @@
 
 ### v3
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Blockmount%20v3.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Blockmount%20v3.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Blockmount%20v3.3mf)
 
@@ -90,6 +90,6 @@
 
 ### v2
 
-<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JustPrints/DIY-FM/main/3D-PRITED-PARTS/Weightmount%20v2.jpg" width="300px"></picture>
+<picture><img alt="IMAGE" src="https://raw.githubusercontent.com/JoesBiggy/THE-FM/main/3D-PRITED-PARTS/Weightmount%20v2.jpg" width="300px"></picture>
 
 [go to 3D-File](3D-PRITED-PARTS/Weightmount%20v2.3mf)
